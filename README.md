@@ -15,6 +15,10 @@ Bit (int) | Role
 6 (64) | Hall Signal Faulty
 7 (128) | Motor Stall
 
+## License
+
+MIT
+
 ## References
 
 - [Beginner’s Guide to DMKB4/DMKB5 BLDC Motor Driver](https://beudmke.com/beginners-guide-to-dmkb4-dmkb5-bldc-motor-driver/)
