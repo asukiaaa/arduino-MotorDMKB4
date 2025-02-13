@@ -5,7 +5,7 @@ A library to control motor driver DMKB4 or DMKB5 by arduino.
 ## Fault information
 
 Bit (int) | Role
-== | ==
+-- | --
 0 (1) | Over voltage
 1 (2) | Under voltage
 2 (4) | Controller over tempearture
