@@ -2,6 +2,11 @@
 
 A library to control motor driver DMKB4 or DMKB5 by arduino.
 
+## Factory setting
+
+- Baudrate: 9600
+- Device ID: 0
+
 ## Fault information
 
 Bit (int) | Role
